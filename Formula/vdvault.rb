@@ -4,7 +4,7 @@ class Vdvault < Formula
   url "https://github.com/mast3rsoft/vdvault.git"
   head "https://github.com/mast3rsoft/vdvault.git"
 
-  version "1.0.0"
+  version "2.0.0"
   license "MIT"
 
    depends_on "rust" => :build
